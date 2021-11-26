@@ -1,3 +1,12 @@
+Groupe :
+RAKOTONOELY Mahay Finaritra mahaydev@gmail.com
+RAVOAVAHY FITAHIANA ravoavahyfitahiana@gmail.com
+RANDRIAMBOLAMANANA Ranto Fitahiana kingsranto@gmail.com
+RALANTOSON Lanja Fandresena lralantoson@gmail.com
+RABIALAHY Joelson joelsonrabialahy@gmail.com
+RAOELISON Kanto hobiana raoelisonkanto@gmail.com
+RABEONY Sitrakiniaina Itokiana rabeitokiana@gmail.com
+
 # ProjetSCSS
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
